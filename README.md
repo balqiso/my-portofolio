@@ -26,3 +26,18 @@ Machine Learning: Regression, Classification, Clustering
 Database Management: MySQL
 
 I am deeply committed to continuous learning and delivering data-driven solutions. Feel free to explore my projects and reach out if you are interested in collaboration or have any questions!
+
+ Key Questions Your Dashboard Can Answer
+
+Question	What it Means
+1. How many passengers traveled in a given period?	Total number of passengers booked in a specific week, month, or year.
+2. How many flights were operated over time?	Number of flights scheduled and completed.
+3. How many total bookings were made?	Volume of ticket sales and reservations.
+4. Which days or weeks had the highest number of bookings?	Identifying peak travel periods.
+5. What times of day are most flights scheduled?	Analyzing peak flight departure hours (morning, afternoon, evening).
+6. What are the top origin airports?	Finding where most travelers are departing from.
+7. What are the top destination airports?	Finding the most popular destinations.
+8. What is the gender breakdown of passengers?	Understanding passenger demographics (Male vs Female).
+9. How does passenger volume change week over week?	Tracking passenger growth trends across weeks.
+10. Which routes are most popular (Origin → Destination)?	Best-selling routes that can be targeted for promotions.
+
